@@ -22,4 +22,4 @@
 
 [10 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_10)-Препроцессор LESS для CSS.
 
-[11 урок] (https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_11)-Сниппеты.
+[11 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_11)-Сниппеты.
