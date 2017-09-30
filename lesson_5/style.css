@@ -1,0 +1,34 @@
+h1,h2,h3{
+	text-align: center;
+}
+.text{
+	text-align: left;
+}
+div {
+position: relative;	
+right :-800px;
+top:-290px;
+
+}
+
+body{
+	background-color:#151719;
+	color:#834d18;
+	}
+
+
+.bold{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+.line-through{
+	text-decoration: line-through;
+}
