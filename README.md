@@ -20,8 +20,10 @@
 
 [9 урок](sergeydushakov.github.io/lesson_9/)- Верстка при помощи bootstrap.
 
-[10 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_10)-Препроцессор LESS для CSS.
+[10 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_10)- Препроцессор LESS для CSS.
 
-[11 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_11)-Сниппеты.
+[11 урок](https://github.com/sergeydushakov/sergeydushakov.github.io/tree/master/lesson_11)- Сниппеты.
 
-[13 урок](https://sergeydushakov.github.io/lesson_13/)-Адаптивная верстка.
+[13 урок](https://sergeydushakov.github.io/lesson_13/)- Адаптивная верстка.
+
+[Модуль 5. Практика. Часть 1.](https://sergeydushakov.github.io/5_module/)- Подготовка файлов. Верстка шапки сайта.
