@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url(../fonts/'BebasNeueBold.eot');
+	src: url(../fonts/'BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+		url(../fonts/'BebasNeueBold.woff2') format('woff2'),
+		url(../fonts/'BebasNeueBold.woff') format('woff'),
+		url(../fonts/'BebasNeueBold.ttf') format('truetype'),
+		url(../fonts/'BebasNeueBold.svg#BebasNeueBold') format('svg');
+	font-weight: bold;
+	font-style: normal;}
+	@font-face {
+	font-family: 'Lato Hairline';
+	src: url(../fonts/'Lato-Hairline.eot');
+	src: url(../fonts/'Lato-Hairline.eot?#iefix') format('embedded-opentype'),
+		url(../fonts/'Lato-Hairline.woff2') format('woff2'),
+		url(../fonts/'Lato-Hairline.woff') format('woff'),
+		url(../fonts/'Lato-Hairline.ttf') format('truetype'),
+		url(../fonts/'Lato-Hairline.svg#Lato-Hairline') format('svg');
+	font-weight: 100;
+	font-style: normal;}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.example_1{
+	font-family: 'Open Sans', sans-serif;
+}
+.example_2{
+	font-family:'Bebas Neue'sans-serif; 
+}
+.example_3{
+	font-family:'Lato Hairline'; 
+}
+.example_4{
+	font-family: 'Lobster', cursive;
+
+}
