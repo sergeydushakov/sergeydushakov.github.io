@@ -29,3 +29,11 @@
 [Модуль 5. Практика. Часть 1.](https://sergeydushakov.github.io/5_module/)- Подготовка файлов. Верстка шапки сайта.
 
 [14 урок](https://sergeydushakov.github.io/lesson_14/)- Подключение шрифтов.
+
+[Модуль 5. Практика. Часть 2.](sergeydushakov.github.io/module_5_2/)- Подключение шрифтов. Верстка первого экрана.
+
+[15 урок](sergeydushakov.github.io/lesson_15/)- Псевдоклассы и псевдоэлементы.
+
+[Модуль 5. Практика. Часть 3](sergeydushakov.github.io/module_5_3/)- Эффекты при наведении и адаптив первого экрана.
+
+
