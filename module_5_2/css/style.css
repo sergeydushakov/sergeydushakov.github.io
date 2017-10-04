@@ -16,7 +16,7 @@ html {
   font-size: 10px;
 }
 body {
-  background: #ffffff url(../img/main-bg.jpg.) center center no-repeat;
+  background: #ffffff url(../img/main-bg.jpg) center center no-repeat;
   background-size: cover;
   font-family: 'Proxima NovaRegular', sans-serif;
 }
