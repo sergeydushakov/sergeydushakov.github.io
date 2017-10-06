@@ -36,4 +36,8 @@
 
 [Модуль 5. Практика. Часть 3](sergeydushakov.github.io/module_5_3/)- Эффекты при наведении и адаптив первого экрана.
 
+[16 урок](https://sergeydushakov.github.io/lesson_16/)- Слайдер на сайте.
+
+[Модуль 5. Практика. Часть 4](https://sergeydushakov.github.io/module_5_4/)-Верстка блока с преимуществами. Слайдер.
+
 
