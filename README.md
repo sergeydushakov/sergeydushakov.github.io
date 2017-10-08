@@ -40,4 +40,8 @@
 
 [Модуль 5. Практика. Часть 4](https://sergeydushakov.github.io/module_5_4/)-Верстка блока с преимуществами. Слайдер.
 
+[17 урок](https://sergeydushakov.github.io/lesson_17/)-Всплывающие окна.
+
+[Модуль 5. Практика. Часть 5](https://sergeydushakov.github.io/module_5_5/)-Верстка всплывающих окон на сайте.
+
 
