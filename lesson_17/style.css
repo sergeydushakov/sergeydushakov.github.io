@@ -1,0 +1,22 @@
+body{
+	color:#000000;
+}
+
+	
+.btn_success {
+	display:block;
+	margin: 300px auto;
+	
+	background-color: #ffa500;
+
+}
+.btn_success:hover{
+color:#fff;
+
+}
+button:active, button:focus {
+  outline: none !important;
+}
+button::-moz-focus-inner {
+  border: 0 !important;
+}
