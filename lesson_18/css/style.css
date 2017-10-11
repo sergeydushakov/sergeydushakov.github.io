@@ -88,6 +88,8 @@ input::placeholder {
  
 .tab-content {
 	background-color: #03a0d3;
+	width: 628px;
+	height: 405px;
 
 }
 .src {
