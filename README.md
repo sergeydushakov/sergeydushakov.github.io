@@ -44,4 +44,9 @@
 
 [Модуль 5. Практика. Часть 5](https://sergeydushakov.github.io/module_5_5/)-Верстка всплывающих окон на сайте.
 
+[18 урок](https://sergeydushakov.github.io/lesson_18/)-Табы и аккордеон на сайте.
+
+[18 урок ч2](sergeydushakov.github.io/lesson_18_2/)-Табы и аккордеон на сайте.
+
+[Модуль 5. Практика. Часть 6](https://sergeydushakov.github.io/module_5_6/)-Верстка блока с ценами.
 
