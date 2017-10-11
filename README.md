@@ -50,3 +50,5 @@
 
 [Модуль 5. Практика. Часть 6](https://sergeydushakov.github.io/module_5_6/)-Верстка блока с ценами.
 
+[19 урок](https://sergeydushakov.github.io/lesson_19/)-Анимация на CSS3.
+
