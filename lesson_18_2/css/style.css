@@ -1,0 +1,38 @@
+.header {
+	margin-top: 50px;
+}
+
+h1 {
+	color: #0bbaf0;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: -10px;
+}
+
+p {
+	color: #0bbaf0;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.panel {
+	margin-top: 50px;
+}
+.panel-title {
+	background-color: #0bbaf0;
+	height: 60px;
+	text-align: center;
+	padding-top: 20px;
+	color: #ffffff;
+	margin-bottom: -10px;
+	font-size: 25px;
+}
+
+.panel-body {
+	font-size: 27px;
+}
+body{
+	background:url(../img/fon.png);
+}
