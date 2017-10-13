@@ -52,3 +52,11 @@
 
 [19 урок](https://sergeydushakov.github.io/lesson_19/)-Анимация на CSS3.
 
+[Модуль 6. Практика. Часть 7](https://sergeydushakov.github.io/module_5_7/)-Верстка блока с отзывами.
+
+[20 урок](sergeydushakov.github.io/lesson_20/)-Видео-фон на сайте.
+
+[Модуль 6. Практика. Часть 8](https://sergeydushakov.github.io/module_5_8/)-Доверстали блок с отзывами.
+
+
+
