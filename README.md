@@ -58,5 +58,14 @@
 
 [Модуль 6. Практика. Часть 8](https://sergeydushakov.github.io/module_5_8/)-Доверстали блок с отзывами.
 
+[21 урок](https://sergeydushakov.github.io/lessson_21/)-Parallax эффект для сайта.
+
+[Модуль 6. Практика. Часть 9](https://sergeydushakov.github.io/module_5_9/)-Верстаем схему работы и все включено.
+
+[22 урок](https://sergeydushakov.github.io/lesson_22/)-Гео-карты для сайта.
+
+[Модуль 6. Практика. Часть 10](https://sergeydushakov.github.io/module_6_10/)-Верстаем блок "Развеиваем сомнения.
+
+
 
 
